@@ -1,16 +1,33 @@
-## Hi there 👋
+# Olá, eu sou Calebe Wadson! 👋
 
-<!--
-**calebewadson/calebewadson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo(a) ao meu GitHub! Sou Engenheiro de Software, Pós Graduando em Machine Learning Engineering.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre Mim
+
+* **Atualmente:** Atuando em programação de instrumentação básica e automação pela TECWISE.
+* **Interesses:** Dados, Machine Learning e IA.
+* **Aprendendo:** Estudando Python, AWS services e Machine Learning.
+* **Colaboração:** Estou sempre aberto a novas ideias e projetos! Se você tem algo interessante em mente, vamos conversar.
+
+---
+
+## 🛠️ Habilidades e Tecnologias
+
+Aqui estão algumas das ferramentas e tecnologias com as quais tenho experiência (ou estou aprendendo):
+
+* **Linguagens:** `Python`, `VBA`, `CRBasic`
+* **Frameworks/Bibliotecas:** `Django`
+* **Bancos de Dados:** `PostgreSQL`
+* **Ferramentas/Outros:** `Git`,`AWS`
+
+---
+
+## 📈 Estatísticas do GitHub
+
+
+```markdown
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=calebewadson&show_icons=true&theme=dracula)
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=calebewadson&layout=compact&theme=dracula)
