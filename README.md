@@ -28,6 +28,5 @@ Aqui estão algumas das ferramentas e tecnologias com as quais tenho experiênci
 
 
 ```markdown
-![EstatísticasdoGitHub](https://github-readme-stats.vercel.app/api?username=calebewadson&show_icons=true&theme=dracula)
-
-![TopLinguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=calebewadson&layout=compact&theme=dracula)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=calebewadson&show_icons=true&theme=dracula)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=calebewadson&layout=compact&theme=dracula)
